@@ -1,0 +1,6 @@
+{
+  "name": "LoyerFacile - Gestion Locative Niger",
+  "description": "Application PWA de gestion locative adaptée au Niger, conforme au décret de plafonnement des loyers, avec encaissement espèces et mobile money, quittances et SMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
